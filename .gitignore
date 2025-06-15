@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Windows/Darkness/Content/Paks/Darkness-Windows.pak
+Windows/Darkness/Content/Paks/Darkness-Windows.ucas
+Windows/Darkness/Content/Paks/Darkness-Windows.utoc
+Windows/Darkness/Content/Paks/global.ucas
+Windows/Darkness/Content/Paks/global.utoc
+Windows/Engine/Config/StagedBuild_Darkness.ini
+Windows/Engine/Content/Renderer/TessellationTable.bin
+Windows/Engine/Content/Slate/Cursor/invisible.cur
+Windows/Manifest_NonUFSFiles_Win64.txt
+Windows/Manifest_UFSFiles_Win64.txt
