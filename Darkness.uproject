@@ -10,11 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "UniversalMPIndicator",
-			"Enabled": false,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/53676c92a7eb4c8ca408d86a4d42e0ac"
 		}
 	]
 }
