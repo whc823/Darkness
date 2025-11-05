@@ -82,3 +82,5 @@ Windows/Engine/Content/Renderer/TessellationTable.bin
 Windows/Engine/Content/Slate/Cursor/invisible.cur
 Windows/Manifest_NonUFSFiles_Win64.txt
 Windows/Manifest_UFSFiles_Win64.txt
+*.7z
+Content.7z
